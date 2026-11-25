@@ -1,5 +1,7 @@
 # pixi-salon
-This is a project I made on p5.js. With only JavaScript. It is a salon where you can change your avatar's hair, skin, background, shirt, and bangs!
+This is a project I made on p5.js. With only JavaScript. It is a salon where you can change your avatar's hair, skin, background, shirt, and bangs! 
+
+link --> https://editor.p5js.org/jagadeesha.2/sketches/D_UZH96cp
 
 ### Project Requirements
 Your project should:
